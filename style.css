@@ -6,6 +6,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+  color: rgba(0, 37, 46);
 }
 
 .menu {
@@ -31,8 +32,9 @@ h1 {
 }
 
 .btn1 {
-  color: hsl(321, 100%, 78%);
-  border-color: hsl(321, 100%, 78%);
+  color: hsl(0, 0%, 100%);
+  border: none;
+  background-color: hsl(192, 100%, 9%);
 }
 .btn2 {
   margin: 20px;
@@ -232,9 +234,27 @@ footer {
 }
 
 .news {
-  margin-left: 800px;
+  margin-left: 600px;
+  color: (0, 37, 46);
 }
 
 .letter {
-  font-size: larger;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.input {
+  height: 40px;
+  width: 300px;
+}
+
+.sub {
+  margin: 20px;
+  background-color: hsl(322, 100%, 66%);
+  color: white;
+  padding: 11px 50px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
 }
