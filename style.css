@@ -183,10 +183,58 @@ h1 {
 
 footer {
   display: flex;
-  justify-content: space-between;
   margin-top: 50px;
 }
 
 .huddletext {
   display: flex;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.leftt {
+  margin-left: 200px;
+}
+
+.lorem {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.fa-phone {
+  margin-right: 10px;
+}
+.fa-envelope {
+  margin-right: 10px;
+}
+
+.phone {
+  margin-bottom: 13px;
+  font-weight: bold;
+}
+
+.fa-facebook {
+  font-size: 30px;
+}
+.fa-instagram {
+  font-size: 30px;
+  margin-left: 15px;
+}
+
+.fa-twitter {
+  font-size: 30px;
+  margin-left: 15px;
+}
+
+.mail {
+  margin-bottom: 13px;
+  font-weight: bold;
+}
+
+.news {
+  margin-left: 800px;
+}
+
+.letter {
+  font-size: larger;
 }
