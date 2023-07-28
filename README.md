@@ -15,5 +15,5 @@ The challenge is to build out this landing page and get it looking as close to t
 
 ### My Design
 ![1st huddle](https://github.com/khaekelvin/huddle-page/assets/130221570/c6680eb5-aaea-43de-a166-1247288eec0e)
-![2nd huddle](https://github.com/khaekelvin/huddle-page/assets/130221570/4db625d7-0cec-4deb-a29d-9da3972a082a)
-![3rd huddle](https://github.com/khaekelvin/huddle-page/assets/130221570/d62a7451-2427-4e79-bbc8-5500bc57ca15)
+![last 2nd](https://github.com/khaekelvin/huddle-page/assets/130221570/1187d217-77b9-47f5-a022-600bea34be19)
+![last 3rd huddle](https://github.com/khaekelvin/huddle-page/assets/130221570/cd28b3a9-916b-4bd0-9caa-bea4d6e231c5)
