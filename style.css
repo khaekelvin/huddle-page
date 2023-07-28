@@ -196,6 +196,7 @@ footer {
 
 .leftt {
   margin-left: 200px;
+  margin-top: 60px;
 }
 
 .lorem {
@@ -234,8 +235,8 @@ footer {
 }
 
 .news {
-  margin-left: 600px;
-  color: (0, 37, 46);
+  margin-left: 450px;
+  margin-top: 60px;
 }
 
 .letter {
@@ -257,4 +258,19 @@ footer {
   font-size: 20px;
   border-radius: 10px;
   border: none;
+}
+
+.faq {
+  word-spacing: 10px;
+  font-weight: bold;
+}
+
+footer {
+  color: white;
+  width: 1700px;
+  margin-left: 100px;
+  height: 400px;
+  background-color: rgba(0, 37, 46);
+  border-radius: 20px;
+  margin-bottom: 50px;
 }
