@@ -3,3 +3,147 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 80px;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+.first {
+  align-items: center;
+}
+
+.btn {
+  padding: 15px 60px;
+
+  border-radius: 25px;
+  box-shadow: 0 10px 16px rgba(0, 0, 0, 0.12);
+  background-color: white;
+}
+
+.btn1 {
+  color: hsl(321, 100%, 78%);
+  border-color: hsl(321, 100%, 78%);
+}
+.btn2 {
+  margin: 20px;
+  background-color: hsl(322, 100%, 66%);
+  color: white;
+  padding: 25px 90px;
+  font-size: 20px;
+  border-radius: 60px;
+  margin-bottom: 70px;
+  border: none;
+}
+
+.build {
+  text-align: center;
+  font-size: 60px;
+}
+.huddle {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 25px;
+  margin: 30px;
+}
+
+.btn2 {
+  margin-left: 800px;
+}
+
+.image1 {
+  margin-left: 400px;
+  width: 1100px;
+  height: 800px;
+}
+
+.services {
+  display: flex;
+}
+
+.services {
+  justify-content: space-between;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.coms {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.sent {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.together {
+  margin-left: 200px;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.generate {
+  margin-left: 200px;
+  font-size: 20px;
+}
+
+.img2 {
+  width: 520px;
+  height: 500px;
+  margin-left: 300px;
+}
+
+.grow {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.two {
+  padding-top: 170px;
+}
+
+.sit {
+  width: 520px;
+  height: 500px;
+  margin-left: 200px;
+}
+
+.flow {
+  display: flex;
+}
+
+.flowing {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.convo {
+  font-size: 20px;
+}
+
+.two-way {
+  margin-left: 200px;
+  margin-top: 170px;
+}
+
+.users {
+  display: flex;
+}
+
+.img3 {
+  width: 520px;
+  height: 500px;
+}
